@@ -1,4 +1,4 @@
-## 🌐 IP-LOC: TRACK IP LOCATION.
+# 🌐 IP-LOC: TRACK IP LOCATION.
 
 ![IP-LOC Banner](https://raw.githubusercontent.com/Maxz-09/IP-LOC/refs/heads/main/banner.png)
 
